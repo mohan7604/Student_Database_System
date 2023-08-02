@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134024980792",
+    "project_id": "student-database-system-a7880",
+    "storage_bucket": "student-database-system-a7880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134024980792:android:635ed6c3bd8cde763579cd",
+        "android_client_info": {
+          "package_name": "com.mohanraj.studentdatabasesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134024980792-irjnd95glhf87njb8um0qomsa22su3lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRvKSb0zgC1WNOyVzlzIFLq240y8WY3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134024980792-irjnd95glhf87njb8um0qomsa22su3lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
